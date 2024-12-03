@@ -1,0 +1,14 @@
+C:\Users\arely\source\repos\Persona2024B\Persona2024B\bin\Debug\net8.0\Persona2024B.exe
+C:\Users\arely\source\repos\Persona2024B\Persona2024B\bin\Debug\net8.0\Persona2024B.deps.json
+C:\Users\arely\source\repos\Persona2024B\Persona2024B\bin\Debug\net8.0\Persona2024B.runtimeconfig.json
+C:\Users\arely\source\repos\Persona2024B\Persona2024B\bin\Debug\net8.0\Persona2024B.dll
+C:\Users\arely\source\repos\Persona2024B\Persona2024B\bin\Debug\net8.0\Persona2024B.pdb
+C:\Users\arely\source\repos\Persona2024B\Persona2024B\obj\Debug\net8.0\Persona2024B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arely\source\repos\Persona2024B\Persona2024B\obj\Debug\net8.0\Persona2024B.AssemblyInfoInputs.cache
+C:\Users\arely\source\repos\Persona2024B\Persona2024B\obj\Debug\net8.0\Persona2024B.AssemblyInfo.cs
+C:\Users\arely\source\repos\Persona2024B\Persona2024B\obj\Debug\net8.0\Persona2024B.csproj.CoreCompileInputs.cache
+C:\Users\arely\source\repos\Persona2024B\Persona2024B\obj\Debug\net8.0\Persona2024B.dll
+C:\Users\arely\source\repos\Persona2024B\Persona2024B\obj\Debug\net8.0\refint\Persona2024B.dll
+C:\Users\arely\source\repos\Persona2024B\Persona2024B\obj\Debug\net8.0\Persona2024B.pdb
+C:\Users\arely\source\repos\Persona2024B\Persona2024B\obj\Debug\net8.0\Persona2024B.genruntimeconfig.cache
+C:\Users\arely\source\repos\Persona2024B\Persona2024B\obj\Debug\net8.0\ref\Persona2024B.dll

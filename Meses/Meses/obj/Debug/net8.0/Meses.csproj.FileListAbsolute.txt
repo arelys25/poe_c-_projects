@@ -1,0 +1,14 @@
+C:\Users\arely\source\repos\Meses\Meses\bin\Debug\net8.0\Meses.exe
+C:\Users\arely\source\repos\Meses\Meses\bin\Debug\net8.0\Meses.deps.json
+C:\Users\arely\source\repos\Meses\Meses\bin\Debug\net8.0\Meses.runtimeconfig.json
+C:\Users\arely\source\repos\Meses\Meses\bin\Debug\net8.0\Meses.dll
+C:\Users\arely\source\repos\Meses\Meses\bin\Debug\net8.0\Meses.pdb
+C:\Users\arely\source\repos\Meses\Meses\obj\Debug\net8.0\Meses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arely\source\repos\Meses\Meses\obj\Debug\net8.0\Meses.AssemblyInfoInputs.cache
+C:\Users\arely\source\repos\Meses\Meses\obj\Debug\net8.0\Meses.AssemblyInfo.cs
+C:\Users\arely\source\repos\Meses\Meses\obj\Debug\net8.0\Meses.csproj.CoreCompileInputs.cache
+C:\Users\arely\source\repos\Meses\Meses\obj\Debug\net8.0\Meses.dll
+C:\Users\arely\source\repos\Meses\Meses\obj\Debug\net8.0\refint\Meses.dll
+C:\Users\arely\source\repos\Meses\Meses\obj\Debug\net8.0\Meses.pdb
+C:\Users\arely\source\repos\Meses\Meses\obj\Debug\net8.0\Meses.genruntimeconfig.cache
+C:\Users\arely\source\repos\Meses\Meses\obj\Debug\net8.0\ref\Meses.dll

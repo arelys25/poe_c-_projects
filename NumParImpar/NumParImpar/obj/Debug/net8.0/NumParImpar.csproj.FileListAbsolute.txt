@@ -1,0 +1,14 @@
+C:\Users\arely\source\repos\NumParImpar\NumParImpar\bin\Debug\net8.0\NumParImpar.exe
+C:\Users\arely\source\repos\NumParImpar\NumParImpar\bin\Debug\net8.0\NumParImpar.deps.json
+C:\Users\arely\source\repos\NumParImpar\NumParImpar\bin\Debug\net8.0\NumParImpar.runtimeconfig.json
+C:\Users\arely\source\repos\NumParImpar\NumParImpar\bin\Debug\net8.0\NumParImpar.dll
+C:\Users\arely\source\repos\NumParImpar\NumParImpar\bin\Debug\net8.0\NumParImpar.pdb
+C:\Users\arely\source\repos\NumParImpar\NumParImpar\obj\Debug\net8.0\NumParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arely\source\repos\NumParImpar\NumParImpar\obj\Debug\net8.0\NumParImpar.AssemblyInfoInputs.cache
+C:\Users\arely\source\repos\NumParImpar\NumParImpar\obj\Debug\net8.0\NumParImpar.AssemblyInfo.cs
+C:\Users\arely\source\repos\NumParImpar\NumParImpar\obj\Debug\net8.0\NumParImpar.csproj.CoreCompileInputs.cache
+C:\Users\arely\source\repos\NumParImpar\NumParImpar\obj\Debug\net8.0\NumParImpar.dll
+C:\Users\arely\source\repos\NumParImpar\NumParImpar\obj\Debug\net8.0\refint\NumParImpar.dll
+C:\Users\arely\source\repos\NumParImpar\NumParImpar\obj\Debug\net8.0\NumParImpar.pdb
+C:\Users\arely\source\repos\NumParImpar\NumParImpar\obj\Debug\net8.0\NumParImpar.genruntimeconfig.cache
+C:\Users\arely\source\repos\NumParImpar\NumParImpar\obj\Debug\net8.0\ref\NumParImpar.dll

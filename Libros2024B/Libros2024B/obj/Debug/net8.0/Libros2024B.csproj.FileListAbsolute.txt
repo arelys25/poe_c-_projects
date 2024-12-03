@@ -1,0 +1,14 @@
+C:\Users\arely\source\repos\Libros2024B\Libros2024B\bin\Debug\net8.0\Libros2024B.exe
+C:\Users\arely\source\repos\Libros2024B\Libros2024B\bin\Debug\net8.0\Libros2024B.deps.json
+C:\Users\arely\source\repos\Libros2024B\Libros2024B\bin\Debug\net8.0\Libros2024B.runtimeconfig.json
+C:\Users\arely\source\repos\Libros2024B\Libros2024B\bin\Debug\net8.0\Libros2024B.dll
+C:\Users\arely\source\repos\Libros2024B\Libros2024B\bin\Debug\net8.0\Libros2024B.pdb
+C:\Users\arely\source\repos\Libros2024B\Libros2024B\obj\Debug\net8.0\Libros2024B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arely\source\repos\Libros2024B\Libros2024B\obj\Debug\net8.0\Libros2024B.AssemblyInfoInputs.cache
+C:\Users\arely\source\repos\Libros2024B\Libros2024B\obj\Debug\net8.0\Libros2024B.AssemblyInfo.cs
+C:\Users\arely\source\repos\Libros2024B\Libros2024B\obj\Debug\net8.0\Libros2024B.csproj.CoreCompileInputs.cache
+C:\Users\arely\source\repos\Libros2024B\Libros2024B\obj\Debug\net8.0\Libros2024B.dll
+C:\Users\arely\source\repos\Libros2024B\Libros2024B\obj\Debug\net8.0\refint\Libros2024B.dll
+C:\Users\arely\source\repos\Libros2024B\Libros2024B\obj\Debug\net8.0\Libros2024B.pdb
+C:\Users\arely\source\repos\Libros2024B\Libros2024B\obj\Debug\net8.0\Libros2024B.genruntimeconfig.cache
+C:\Users\arely\source\repos\Libros2024B\Libros2024B\obj\Debug\net8.0\ref\Libros2024B.dll

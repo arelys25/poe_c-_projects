@@ -1,0 +1,14 @@
+C:\Users\arely\source\repos\ArregloPosicion\ArregloPosicion\bin\Debug\net8.0\ArregloPosicion.exe
+C:\Users\arely\source\repos\ArregloPosicion\ArregloPosicion\bin\Debug\net8.0\ArregloPosicion.deps.json
+C:\Users\arely\source\repos\ArregloPosicion\ArregloPosicion\bin\Debug\net8.0\ArregloPosicion.runtimeconfig.json
+C:\Users\arely\source\repos\ArregloPosicion\ArregloPosicion\bin\Debug\net8.0\ArregloPosicion.dll
+C:\Users\arely\source\repos\ArregloPosicion\ArregloPosicion\bin\Debug\net8.0\ArregloPosicion.pdb
+C:\Users\arely\source\repos\ArregloPosicion\ArregloPosicion\obj\Debug\net8.0\ArregloPosicion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arely\source\repos\ArregloPosicion\ArregloPosicion\obj\Debug\net8.0\ArregloPosicion.AssemblyInfoInputs.cache
+C:\Users\arely\source\repos\ArregloPosicion\ArregloPosicion\obj\Debug\net8.0\ArregloPosicion.AssemblyInfo.cs
+C:\Users\arely\source\repos\ArregloPosicion\ArregloPosicion\obj\Debug\net8.0\ArregloPosicion.csproj.CoreCompileInputs.cache
+C:\Users\arely\source\repos\ArregloPosicion\ArregloPosicion\obj\Debug\net8.0\ArregloPosicion.dll
+C:\Users\arely\source\repos\ArregloPosicion\ArregloPosicion\obj\Debug\net8.0\refint\ArregloPosicion.dll
+C:\Users\arely\source\repos\ArregloPosicion\ArregloPosicion\obj\Debug\net8.0\ArregloPosicion.pdb
+C:\Users\arely\source\repos\ArregloPosicion\ArregloPosicion\obj\Debug\net8.0\ArregloPosicion.genruntimeconfig.cache
+C:\Users\arely\source\repos\ArregloPosicion\ArregloPosicion\obj\Debug\net8.0\ref\ArregloPosicion.dll

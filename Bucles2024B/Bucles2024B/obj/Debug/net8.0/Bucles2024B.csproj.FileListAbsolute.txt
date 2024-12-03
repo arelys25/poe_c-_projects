@@ -1,0 +1,14 @@
+C:\Users\arely\source\repos\Bucles2024B\Bucles2024B\bin\Debug\net8.0\Bucles2024B.exe
+C:\Users\arely\source\repos\Bucles2024B\Bucles2024B\bin\Debug\net8.0\Bucles2024B.deps.json
+C:\Users\arely\source\repos\Bucles2024B\Bucles2024B\bin\Debug\net8.0\Bucles2024B.runtimeconfig.json
+C:\Users\arely\source\repos\Bucles2024B\Bucles2024B\bin\Debug\net8.0\Bucles2024B.dll
+C:\Users\arely\source\repos\Bucles2024B\Bucles2024B\bin\Debug\net8.0\Bucles2024B.pdb
+C:\Users\arely\source\repos\Bucles2024B\Bucles2024B\obj\Debug\net8.0\Bucles2024B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arely\source\repos\Bucles2024B\Bucles2024B\obj\Debug\net8.0\Bucles2024B.AssemblyInfoInputs.cache
+C:\Users\arely\source\repos\Bucles2024B\Bucles2024B\obj\Debug\net8.0\Bucles2024B.AssemblyInfo.cs
+C:\Users\arely\source\repos\Bucles2024B\Bucles2024B\obj\Debug\net8.0\Bucles2024B.csproj.CoreCompileInputs.cache
+C:\Users\arely\source\repos\Bucles2024B\Bucles2024B\obj\Debug\net8.0\Bucles2024B.dll
+C:\Users\arely\source\repos\Bucles2024B\Bucles2024B\obj\Debug\net8.0\refint\Bucles2024B.dll
+C:\Users\arely\source\repos\Bucles2024B\Bucles2024B\obj\Debug\net8.0\Bucles2024B.pdb
+C:\Users\arely\source\repos\Bucles2024B\Bucles2024B\obj\Debug\net8.0\Bucles2024B.genruntimeconfig.cache
+C:\Users\arely\source\repos\Bucles2024B\Bucles2024B\obj\Debug\net8.0\ref\Bucles2024B.dll

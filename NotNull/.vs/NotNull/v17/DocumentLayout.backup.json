@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arely\\source\\repos\\NotNull\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6FC956-2C74-4A12-A6FE-8121FC3CF473}|NotNull\\NotNull.csproj|c:\\users\\arely\\source\\repos\\notnull\\notnull\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6FC956-2C74-4A12-A6FE-8121FC3CF473}|NotNull\\NotNull.csproj|solutionrelative:notnull\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arely\\source\\repos\\NotNull\\NotNull\\Program.cs",
+              "RelativeDocumentMoniker": "NotNull\\Program.cs",
+              "ToolTip": "C:\\Users\\arely\\source\\repos\\NotNull\\NotNull\\Program.cs",
+              "RelativeToolTip": "NotNull\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwD8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:31:28.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

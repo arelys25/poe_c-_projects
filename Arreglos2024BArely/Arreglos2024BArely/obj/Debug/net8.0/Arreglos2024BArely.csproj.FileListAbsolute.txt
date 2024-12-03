@@ -1,0 +1,14 @@
+C:\Users\arely\source\repos\Arreglos2024BArely\Arreglos2024BArely\bin\Debug\net8.0\Arreglos2024BArely.exe
+C:\Users\arely\source\repos\Arreglos2024BArely\Arreglos2024BArely\bin\Debug\net8.0\Arreglos2024BArely.deps.json
+C:\Users\arely\source\repos\Arreglos2024BArely\Arreglos2024BArely\bin\Debug\net8.0\Arreglos2024BArely.runtimeconfig.json
+C:\Users\arely\source\repos\Arreglos2024BArely\Arreglos2024BArely\bin\Debug\net8.0\Arreglos2024BArely.dll
+C:\Users\arely\source\repos\Arreglos2024BArely\Arreglos2024BArely\bin\Debug\net8.0\Arreglos2024BArely.pdb
+C:\Users\arely\source\repos\Arreglos2024BArely\Arreglos2024BArely\obj\Debug\net8.0\Arreglos2024BArely.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arely\source\repos\Arreglos2024BArely\Arreglos2024BArely\obj\Debug\net8.0\Arreglos2024BArely.AssemblyInfoInputs.cache
+C:\Users\arely\source\repos\Arreglos2024BArely\Arreglos2024BArely\obj\Debug\net8.0\Arreglos2024BArely.AssemblyInfo.cs
+C:\Users\arely\source\repos\Arreglos2024BArely\Arreglos2024BArely\obj\Debug\net8.0\Arreglos2024BArely.csproj.CoreCompileInputs.cache
+C:\Users\arely\source\repos\Arreglos2024BArely\Arreglos2024BArely\obj\Debug\net8.0\Arreglos2024BArely.dll
+C:\Users\arely\source\repos\Arreglos2024BArely\Arreglos2024BArely\obj\Debug\net8.0\refint\Arreglos2024BArely.dll
+C:\Users\arely\source\repos\Arreglos2024BArely\Arreglos2024BArely\obj\Debug\net8.0\Arreglos2024BArely.pdb
+C:\Users\arely\source\repos\Arreglos2024BArely\Arreglos2024BArely\obj\Debug\net8.0\Arreglos2024BArely.genruntimeconfig.cache
+C:\Users\arely\source\repos\Arreglos2024BArely\Arreglos2024BArely\obj\Debug\net8.0\ref\Arreglos2024BArely.dll

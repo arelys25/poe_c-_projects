@@ -1,0 +1,14 @@
+C:\Users\arely\source\repos\NotNull\NotNull\bin\Debug\net8.0\NotNull.exe
+C:\Users\arely\source\repos\NotNull\NotNull\bin\Debug\net8.0\NotNull.deps.json
+C:\Users\arely\source\repos\NotNull\NotNull\bin\Debug\net8.0\NotNull.runtimeconfig.json
+C:\Users\arely\source\repos\NotNull\NotNull\bin\Debug\net8.0\NotNull.dll
+C:\Users\arely\source\repos\NotNull\NotNull\bin\Debug\net8.0\NotNull.pdb
+C:\Users\arely\source\repos\NotNull\NotNull\obj\Debug\net8.0\NotNull.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arely\source\repos\NotNull\NotNull\obj\Debug\net8.0\NotNull.AssemblyInfoInputs.cache
+C:\Users\arely\source\repos\NotNull\NotNull\obj\Debug\net8.0\NotNull.AssemblyInfo.cs
+C:\Users\arely\source\repos\NotNull\NotNull\obj\Debug\net8.0\NotNull.csproj.CoreCompileInputs.cache
+C:\Users\arely\source\repos\NotNull\NotNull\obj\Debug\net8.0\NotNull.dll
+C:\Users\arely\source\repos\NotNull\NotNull\obj\Debug\net8.0\refint\NotNull.dll
+C:\Users\arely\source\repos\NotNull\NotNull\obj\Debug\net8.0\NotNull.pdb
+C:\Users\arely\source\repos\NotNull\NotNull\obj\Debug\net8.0\NotNull.genruntimeconfig.cache
+C:\Users\arely\source\repos\NotNull\NotNull\obj\Debug\net8.0\ref\NotNull.dll

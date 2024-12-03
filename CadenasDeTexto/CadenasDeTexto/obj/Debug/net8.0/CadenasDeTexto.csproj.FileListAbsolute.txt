@@ -1,0 +1,14 @@
+C:\Users\arely\source\repos\CadenasDeTexto\CadenasDeTexto\bin\Debug\net8.0\CadenasDeTexto.exe
+C:\Users\arely\source\repos\CadenasDeTexto\CadenasDeTexto\bin\Debug\net8.0\CadenasDeTexto.deps.json
+C:\Users\arely\source\repos\CadenasDeTexto\CadenasDeTexto\bin\Debug\net8.0\CadenasDeTexto.runtimeconfig.json
+C:\Users\arely\source\repos\CadenasDeTexto\CadenasDeTexto\bin\Debug\net8.0\CadenasDeTexto.dll
+C:\Users\arely\source\repos\CadenasDeTexto\CadenasDeTexto\bin\Debug\net8.0\CadenasDeTexto.pdb
+C:\Users\arely\source\repos\CadenasDeTexto\CadenasDeTexto\obj\Debug\net8.0\CadenasDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arely\source\repos\CadenasDeTexto\CadenasDeTexto\obj\Debug\net8.0\CadenasDeTexto.AssemblyInfoInputs.cache
+C:\Users\arely\source\repos\CadenasDeTexto\CadenasDeTexto\obj\Debug\net8.0\CadenasDeTexto.AssemblyInfo.cs
+C:\Users\arely\source\repos\CadenasDeTexto\CadenasDeTexto\obj\Debug\net8.0\CadenasDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\arely\source\repos\CadenasDeTexto\CadenasDeTexto\obj\Debug\net8.0\CadenasDeTexto.dll
+C:\Users\arely\source\repos\CadenasDeTexto\CadenasDeTexto\obj\Debug\net8.0\refint\CadenasDeTexto.dll
+C:\Users\arely\source\repos\CadenasDeTexto\CadenasDeTexto\obj\Debug\net8.0\CadenasDeTexto.pdb
+C:\Users\arely\source\repos\CadenasDeTexto\CadenasDeTexto\obj\Debug\net8.0\CadenasDeTexto.genruntimeconfig.cache
+C:\Users\arely\source\repos\CadenasDeTexto\CadenasDeTexto\obj\Debug\net8.0\ref\CadenasDeTexto.dll

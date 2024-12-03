@@ -1,0 +1,14 @@
+C:\Users\arely\source\repos\DiasAnio\DiasAnio\bin\Debug\net8.0\DiasAnio.exe
+C:\Users\arely\source\repos\DiasAnio\DiasAnio\bin\Debug\net8.0\DiasAnio.deps.json
+C:\Users\arely\source\repos\DiasAnio\DiasAnio\bin\Debug\net8.0\DiasAnio.runtimeconfig.json
+C:\Users\arely\source\repos\DiasAnio\DiasAnio\bin\Debug\net8.0\DiasAnio.dll
+C:\Users\arely\source\repos\DiasAnio\DiasAnio\bin\Debug\net8.0\DiasAnio.pdb
+C:\Users\arely\source\repos\DiasAnio\DiasAnio\obj\Debug\net8.0\DiasAnio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arely\source\repos\DiasAnio\DiasAnio\obj\Debug\net8.0\DiasAnio.AssemblyInfoInputs.cache
+C:\Users\arely\source\repos\DiasAnio\DiasAnio\obj\Debug\net8.0\DiasAnio.AssemblyInfo.cs
+C:\Users\arely\source\repos\DiasAnio\DiasAnio\obj\Debug\net8.0\DiasAnio.csproj.CoreCompileInputs.cache
+C:\Users\arely\source\repos\DiasAnio\DiasAnio\obj\Debug\net8.0\DiasAnio.dll
+C:\Users\arely\source\repos\DiasAnio\DiasAnio\obj\Debug\net8.0\refint\DiasAnio.dll
+C:\Users\arely\source\repos\DiasAnio\DiasAnio\obj\Debug\net8.0\DiasAnio.pdb
+C:\Users\arely\source\repos\DiasAnio\DiasAnio\obj\Debug\net8.0\DiasAnio.genruntimeconfig.cache
+C:\Users\arely\source\repos\DiasAnio\DiasAnio\obj\Debug\net8.0\ref\DiasAnio.dll

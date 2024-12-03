@@ -1,0 +1,14 @@
+C:\Users\arely\source\repos\PromedioAlumno\PromedioAlumno\bin\Debug\net8.0\PromedioAlumno.exe
+C:\Users\arely\source\repos\PromedioAlumno\PromedioAlumno\bin\Debug\net8.0\PromedioAlumno.deps.json
+C:\Users\arely\source\repos\PromedioAlumno\PromedioAlumno\bin\Debug\net8.0\PromedioAlumno.runtimeconfig.json
+C:\Users\arely\source\repos\PromedioAlumno\PromedioAlumno\bin\Debug\net8.0\PromedioAlumno.dll
+C:\Users\arely\source\repos\PromedioAlumno\PromedioAlumno\bin\Debug\net8.0\PromedioAlumno.pdb
+C:\Users\arely\source\repos\PromedioAlumno\PromedioAlumno\obj\Debug\net8.0\PromedioAlumno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arely\source\repos\PromedioAlumno\PromedioAlumno\obj\Debug\net8.0\PromedioAlumno.AssemblyInfoInputs.cache
+C:\Users\arely\source\repos\PromedioAlumno\PromedioAlumno\obj\Debug\net8.0\PromedioAlumno.AssemblyInfo.cs
+C:\Users\arely\source\repos\PromedioAlumno\PromedioAlumno\obj\Debug\net8.0\PromedioAlumno.csproj.CoreCompileInputs.cache
+C:\Users\arely\source\repos\PromedioAlumno\PromedioAlumno\obj\Debug\net8.0\PromedioAlumno.dll
+C:\Users\arely\source\repos\PromedioAlumno\PromedioAlumno\obj\Debug\net8.0\refint\PromedioAlumno.dll
+C:\Users\arely\source\repos\PromedioAlumno\PromedioAlumno\obj\Debug\net8.0\PromedioAlumno.pdb
+C:\Users\arely\source\repos\PromedioAlumno\PromedioAlumno\obj\Debug\net8.0\PromedioAlumno.genruntimeconfig.cache
+C:\Users\arely\source\repos\PromedioAlumno\PromedioAlumno\obj\Debug\net8.0\ref\PromedioAlumno.dll
